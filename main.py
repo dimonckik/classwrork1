@@ -1,16 +1,21 @@
-# This is a sample Python script.
+# class Student:
+#     group = "C2019"
+#     gender = "Male"
+#     education = "MKA STEP"
+#
+#     def __init__(self):
+#         # print(id(self))
+#         self.name = "Oleg"
+#         self.age = 15
+#
+#
+# st1 = Student()
+# print(st1.name)
+# print(st1.age)
+# # print(id(st1))
+# # st2 = Student()
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# print (st1.group)
+# print (st2.group)
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
